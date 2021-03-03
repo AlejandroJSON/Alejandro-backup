@@ -9,4 +9,6 @@ Bunları doldurdan sonra cmd aracılığıyla botu açıp kullanabilirsiniz.
 
 * [Prasty Code](https://discord.gg/tXbR8MSWu7) sunucusuna gelip yardım alabilirsini!
 
+https://cdn.discordapp.com/attachments/814979135318261820/816601243895332864/350kb.gif
+
 # Fazla ilgi gelirse yeni altyapılar gelicektir. İyi kullanımlar...
