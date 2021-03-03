@@ -11,7 +11,7 @@ Bunları doldurdan sonra cmd aracılığıyla botu açıp kullanabilirsiniz.
 
 <img src="https://cdn.discordapp.com/attachments/814979135318261820/816601298875056150/standard_2.gif">
 
-# Fazla ilgi gelirse yeni altyapılar gelicektir. İyi kullanımlar...
+* Fazla ilgi gelirse yeni altyapılar gelicektir. İyi kullanımlar...
 
 # https://github.com/AlejandroJSON Tarafından yapılmıştır. Parayla satılması, izinsiz paylaşılması yasaktır!
 
