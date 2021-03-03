@@ -7,7 +7,7 @@ Bunları doldurdan sonra cmd aracılığıyla botu açıp kullanabilirsiniz.
 
 # Prasty Code 
 
-* [Prasty Code](https://discord.gg/tXbR8MSWu7) sunucusuna gelip yardım alabilirsini!
+* [Prasty Code](https://discord.gg/tXbR8MSWu7) sunucusuna gelip yardım alabilirsin!
 
 <img src="https://cdn.discordapp.com/attachments/814979135318261820/816601298875056150/standard_2.gif">
 
